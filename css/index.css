@@ -1,0 +1,8 @@
+:root{
+	--theme:red;
+}
+body{
+	background-color: #eee;
+	margin: 0;
+	padding: 0;
+}
